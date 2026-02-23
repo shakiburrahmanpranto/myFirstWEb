@@ -1,0 +1,39 @@
+h3{ color: #000;
+text-decoration: dotted;
+background-color: rgb(247, 12, 59);
+text-align: right;
+font-style: italic;}
+
+.styleblog{
+    visibility: initial;box-shadow:10px 10px rgb(8, 10, 13);
+    font-family:'Courier New', Courier, monospace;
+}
+.got{ font-style: italic;
+border: 2px 2px solid black;
+text-decoration: dotted;}
+.xx{
+    border:5px 5px blue;
+}
+.won{
+    border: 2px solid yellow;
+}
+.for{
+    border: 2px 2px red;
+}
+.name{
+    border: 2px 2px rgb(0, 148, 136);
+}
+.top{
+    border: 2px 2px yellow;
+}
+.header{
+    height: 400px; width: 450px;
+    background-image: url(anik.png);background-repeat:repeat-y ;
+    background-size: contain;
+    .dis{
+        border: 2px solid;
+    }
+    .bip{ border: 2px solid blue;}
+    .tut{ border: 2px 2px #f22b2b;}
+
+

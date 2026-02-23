@@ -1,0 +1,12 @@
+
+.h1,h3,h4,h2{ font-style: italic;
+border:3px solid rgb(81, 148, 150);}
+.p1{ background-color: blanchedalmond;}
+
+
+.p2{ font-family: fantasy;}
+.p3{ text-align: right;}
+.p4{ color: coral;}
+.cat{ border: 2px solid hotpink;}
+img{ position:calc(jfl);box-shadow: 10px 10px 10px chartreuse; 
+border: black; }

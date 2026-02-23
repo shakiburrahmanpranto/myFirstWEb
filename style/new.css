@@ -1,0 +1,12 @@
+.none{
+    border:2px 2px coral; background-color: cornflowerblue;
+}
+.one{ border: 2px solid yellowgreen;  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.two{ border: 2px solid red; font-style: italic;}
+.ptwo{ border: 23px solid purple; box-shadow: rgb(255, 80, 16) 2px;font-style: italic;text-align: center;}
+.pthree{ background-color: aqua; display: -ms-grid;}
+.pthree{ text-align: right; border-radius: 0rlh;
+    font-display: bold; border box-shadow: 3px solid red;}
+    .green 
+    { font: italic; background-color: gold;}
+    .blue{ font: bold; background-color: aquamarine;}

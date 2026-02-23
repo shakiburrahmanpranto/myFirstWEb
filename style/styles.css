@@ -1,0 +1,9 @@
+.new{color: blue;}
+.old{
+    color: chartreuse;
+    background-color: black;
+}
+.one{ color: fuchsia;}
+.two{
+    border: 2px solid red;
+}
